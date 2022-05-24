@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Bubble Sort</string>
+    <string name="shuffle">Перемешать</string>
+</resources>
